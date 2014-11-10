@@ -1,0 +1,16 @@
+{
+  "tables": [
+    {
+      "players": [
+        "some player",
+        "another player"
+      ]
+    },
+    {
+      "players": [
+        "some other player",
+        "yet another player"
+      ]
+    }
+  ]
+}
